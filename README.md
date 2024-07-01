@@ -21,7 +21,7 @@ This project is a content-based movie recommender system that uses a TMDB datase
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Movie_Recommendation_System.git
+   git clone https://github.com/Knight6767704/Movie_Recommender_System.git
    
 2. Run the Streamlit Application:
 
