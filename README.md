@@ -29,6 +29,5 @@ This project is a content-based movie recommender system that uses a TMDB datase
    ```bash
    streamlit run app.py
 
-Deployed at
-```bash
-https://huggingface.co/spaces/knight6767704/Movie_Recommendation_System
+Check out my Movie Recommendation System deployed on Hugging Face Spaces: [Movie Recommendation System](https://huggingface.co/spaces/knight6767704/Movie_Recommendation_System)
+
